@@ -29,6 +29,7 @@ const Homepage = () => {
             {item.map((itemval) => {
               return <li>{itemval}</li>;
             })}
+
             {/* <li>hi</li>
             <li>hi</li> */}
           </ul>
